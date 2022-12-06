@@ -1,2 +1,2 @@
 #!/bin/bash
-ls-la [D[D[D[D [C[C[D[D-[la > ls_cwd_content
+ls -la > ls_cwd_content
